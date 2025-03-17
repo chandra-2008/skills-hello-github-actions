@@ -4,6 +4,8 @@
 
 _Create and run a GitHub Actions workflow._
 
+# added new line
+
 </header>
 
 ## Step 5: Trigger the workflow
